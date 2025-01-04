@@ -8,3 +8,4 @@ This template project is designed to expedite the process of setting up a C proj
 - [Vscode Try Out Development Containers: C++](https://github.com/microsoft/vscode-remote-try-cpp/tree/main)
 - [Get started with CMake Tools on Linux](https://code.visualstudio.com/docs/cpp/cmake-linux)
 - [VSCode Variables Reference](https://code.visualstudio.com/docs/editor/variables-reference)
+- [GLib – 2.0](https://docs.gtk.org/glib/index.html)
