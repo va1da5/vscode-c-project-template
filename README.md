@@ -10,3 +10,4 @@ This template project is designed to expedite the process of setting up a C proj
 - [VSCode Variables Reference](https://code.visualstudio.com/docs/editor/variables-reference)
 - [GLib – 2.0](https://docs.gtk.org/glib/index.html)
 - [Getting Started with GLib](https://remcokranenburg.com/2021/05/30/getting-started-with-glib.html)
+- [GNOME/glib](https://github.com/GNOME/glib)
