@@ -1,7 +1,10 @@
 cmake_minimum_required(VERSION 3.24)
 project(main C)
 
-set(IS_STATIC FALSE)
+set(CMAKE_C_COMPILER clang)
+set(CMAKE_CXX_COMPILER clang++)
+
+set(IS_STATIC TRUE)
 
 # Find GLib2. This is the recommended approach
 find_package(PkgConfig REQUIRED)
