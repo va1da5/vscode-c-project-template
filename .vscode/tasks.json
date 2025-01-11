@@ -13,10 +13,19 @@
         {
             "label": "Build Project",
             "type": "shell",
-            "command": "mkdir -p build; cd build; cmake ..",
+            "command": "cd build; make",
             "group": {
                 "kind": "build",
                 "isDefault": true
+            }
+        },
+        {
+            "label": "Build Makefile",
+            "type": "shell",
+            "command": "mkdir -p build; cd build; cmake ..",
+            "group": {
+                "kind": "build",
+                "isDefault": false
             }
         },
         {
